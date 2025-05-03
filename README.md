@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/takshit12-examplemcpserver-badge.png)](https://mseep.ai/app/takshit12-examplemcpserver)
+
 # MCP Server Template for Cursor IDE
 
 A simple template for creating custom tools for Cursor IDE using Model Context Protocol (MCP). Create your own repository from this template, modify the tools, and connect them to your Cursor IDE.
